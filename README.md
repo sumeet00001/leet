@@ -15,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/spatle1/leet/tree/master/0043-multiply-strings) |
+## Array
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/spatle1/leet/tree/master/1603-running-sum-of-1d-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/spatle1/leet/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
