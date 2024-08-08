@@ -2,6 +2,8 @@
 
 <p>Return the running sum of <code>nums</code>.</p>
 
+// prefix sum basic
+
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
