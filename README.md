@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/spatle1/leet/tree/master/0043-multiply-strings) |
+| [0344-reverse-string](https://github.com/spatle1/leet/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/spatle1/leet/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Simulation
 |  |
@@ -27,5 +28,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/spatle1/leet/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/spatle1/leet/tree/master/0557-reverse-words-in-a-string-iii) |
 <!---LeetCode Topics End-->
