@@ -48,4 +48,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/spatle1/leet/tree/master/0595-big-countries) |
+| [1827-invalid-tweets](https://github.com/spatle1/leet/tree/master/1827-invalid-tweets) |
 <!---LeetCode Topics End-->
