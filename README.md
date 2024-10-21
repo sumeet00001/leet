@@ -44,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2634-minimum-common-value](https://github.com/spatle1/leet/tree/master/2634-minimum-common-value) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/spatle1/leet/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
