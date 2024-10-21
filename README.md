@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/spatle1/leet/tree/master/0283-move-zeroes) |
 | [1603-running-sum-of-1d-array](https://github.com/spatle1/leet/tree/master/1603-running-sum-of-1d-array) |
 | [2634-minimum-common-value](https://github.com/spatle1/leet/tree/master/2634-minimum-common-value) |
 ## Prefix Sum
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/spatle1/leet/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/spatle1/leet/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/spatle1/leet/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0953-reverse-only-letters](https://github.com/spatle1/leet/tree/master/0953-reverse-only-letters) |
