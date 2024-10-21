@@ -22,11 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/spatle1/leet/tree/master/0283-move-zeroes) |
+| [1046-max-consecutive-ones-iii](https://github.com/spatle1/leet/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/spatle1/leet/tree/master/1603-running-sum-of-1d-array) |
 | [2634-minimum-common-value](https://github.com/spatle1/leet/tree/master/2634-minimum-common-value) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/spatle1/leet/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/spatle1/leet/tree/master/1603-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
@@ -43,10 +45,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/spatle1/leet/tree/master/1046-max-consecutive-ones-iii) |
 | [2634-minimum-common-value](https://github.com/spatle1/leet/tree/master/2634-minimum-common-value) |
 ## Database
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/spatle1/leet/tree/master/0595-big-countries) |
 | [1827-invalid-tweets](https://github.com/spatle1/leet/tree/master/1827-invalid-tweets) |
+## Sliding Window
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/spatle1/leet/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
