@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/spatle1/leet/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/spatle1/leet/tree/master/0283-move-zeroes) |
+| [0724-find-pivot-index](https://github.com/spatle1/leet/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/spatle1/leet/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/spatle1/leet/tree/master/1603-running-sum-of-1d-array) |
 | [2634-minimum-common-value](https://github.com/spatle1/leet/tree/master/2634-minimum-common-value) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/spatle1/leet/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/spatle1/leet/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/spatle1/leet/tree/master/1046-max-consecutive-ones-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/spatle1/leet/tree/master/1321-get-equal-substrings-within-budget) |
 | [1603-running-sum-of-1d-array](https://github.com/spatle1/leet/tree/master/1603-running-sum-of-1d-array) |
