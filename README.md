@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/spatle1/leet/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0953-reverse-only-letters](https://github.com/spatle1/leet/tree/master/0953-reverse-only-letters) |
 | [1321-get-equal-substrings-within-budget](https://github.com/spatle1/leet/tree/master/1321-get-equal-substrings-within-budget) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/spatle1/leet/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/spatle1/leet/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3379-score-of-a-string](https://github.com/spatle1/leet/tree/master/3379-score-of-a-string) |
 ## Simulation
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/spatle1/leet/tree/master/0303-range-sum-query-immutable) |
+## Stack
+|  |
+| ------- |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/spatle1/leet/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 <!---LeetCode Topics End-->
