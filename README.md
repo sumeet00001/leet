@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/spatle1/leet/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/spatle1/leet/tree/master/0043-multiply-strings) |
 ## String
 |  |
@@ -83,5 +84,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/spatle1/leet/tree/master/0029-divide-two-integers) |
 | [3394-minimum-array-end](https://github.com/spatle1/leet/tree/master/3394-minimum-array-end) |
 <!---LeetCode Topics End-->
